@@ -20,7 +20,6 @@
 *.data
 *.json
 
-*.cfg
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
@@ -47,7 +46,6 @@ gcp_test*.sh
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
-*.pt
 *.onnx
 *.mlmodel
 darknet53.conv.74
